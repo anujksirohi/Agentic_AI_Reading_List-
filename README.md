@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📘 Google 5-Day Agentic AI Course — Notes
+# 📘 Agentic AI Notes
 
 ### A complete, structured set of notes from Google's official **5-Day Agentic AI Course**
 
